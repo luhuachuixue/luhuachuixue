@@ -64,7 +64,7 @@
 <a href="https://gitea.io" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/giteaio/giteaio-icon.svg"></a>
 </code>
 <code>
-<a href="http://nginx.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></a>
+<a href="https://nginx.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"></a>
 </code>
 <code>
 <a href="https://redis.io" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/redis.svg"></a>
@@ -82,7 +82,7 @@
 <a href="https://kubernetes.io" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/kubernetes.svg"></a>
 </code>
 <code>
-<a href="http://tomcat.apache.org" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/tomcat.svg"></a>
+<a href="https://tomcat.apache.org" target="_blank"><img height="50" src="https://cdn.svgporn.com/logos/tomcat.svg"></a>
 </code>
 
 ## OS
